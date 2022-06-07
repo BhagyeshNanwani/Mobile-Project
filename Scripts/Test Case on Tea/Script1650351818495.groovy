@@ -36,6 +36,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+
 Mobile.startApplication('/Users/bhagyesh/Downloads/Coffee Timer.app', true)
 
 Mobile.tap(findTestObject('Object Repository/iOS making tea/XCUIElementTypeStaticText - Green Tea'), 0)

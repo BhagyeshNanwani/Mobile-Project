@@ -4,8 +4,8 @@
    <name>Test Suite Collection iOS</name>
    <tag></tag>
    <delayBetweenInstances>0</delayBetweenInstances>
-   <executionMode>SEQUENTIAL</executionMode>
-   <maxConcurrentInstances>8</maxConcurrentInstances>
+   <executionMode>PARALLEL</executionMode>
+   <maxConcurrentInstances>10</maxConcurrentInstances>
    <testSuiteRunConfigurations>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -35,11 +35,11 @@
             <runConfigurationData>
                <entry>
                   <key>deviceName</key>
-                  <value>iPhone 11 Pro (Simulator)</value>
+                  <value>iPhone 8 (Simulator)</value>
                </entry>
                <entry>
                   <key>deviceId</key>
-                  <value>74F1BFE7-EE8F-4050-A3D0-85D9473E2486</value>
+                  <value>CBBBF315-B85D-49F8-A5DE-D4E2F3FA61AA</value>
                </entry>
             </runConfigurationData>
             <runConfigurationId>iOS</runConfigurationId>
